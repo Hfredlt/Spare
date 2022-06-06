@@ -3,10 +3,14 @@
 @font-face {
 	font-family	: 'High Summit';
 	src		:  url('https://github.com/Hfredlt/Spare/blob/5ec17b1833589100071afbc5103ed8e6a5152c27/High-Summit.woff') format('woff');
+	font-weight: normal;
+    	font-style: normal;
 	}
 
 @font-face {
 	font-family 	: 'Bombaya Regular';
 	src 		:  url('https://github.com/Hfredlt/Spare/blob/ee7cacc5c009064bac3734c64bc458fd39332556/bombaya-webfont.woff') format('woff');
+	font-weight: normal;
+    	font-style: normal;
 	}
 
